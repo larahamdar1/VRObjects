@@ -1,0 +1,66 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Floor1Diff.jpg
+bump  -bm 1 Floor1Bump.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Floor1Spec.jpg
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Floor2Diff.jpg
+bump  -bm 1 Floor2Bump.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Floor2Spec.jpg
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wall1Diff.jpg
+bump  -bm 1 Wall1Bump.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Wall1Spec.jpg
+newmtl blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wall2Diff.jpg
+bump  -bm 1 Wall2Bump.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Wall2Spec.jpg
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wall3Diff.jpg
+bump  -bm 1 Wall3Bump.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Wall3Spec.jpg
+newmtl blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Roof1Diff.jpg
+bump  -bm 1 Roof1Bump.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Roof1Spec.jpg
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
