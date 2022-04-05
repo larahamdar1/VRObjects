@@ -1,0 +1,11 @@
+Model Information:
+* title:	Buddah
+* source:	https://sketchfab.com/3d-models/buddah-f220c84897d742c5a486d27ac926d4fa
+* author:	Sportman (https://sketchfab.com/ooooool_loooooo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Buddah" (https://sketchfab.com/3d-models/buddah-f220c84897d742c5a486d27ac926d4fa) by Sportman (https://sketchfab.com/ooooool_loooooo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
