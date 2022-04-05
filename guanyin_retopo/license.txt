@@ -1,0 +1,11 @@
+Model Information:
+* title:	Guanyin Retopo
+* source:	https://sketchfab.com/3d-models/guanyin-retopo-ea26840f2fd243d4b246d3086d2df7b1
+* author:	aligatorkogut (https://sketchfab.com/aligatorkogut)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Guanyin Retopo" (https://sketchfab.com/3d-models/guanyin-retopo-ea26840f2fd243d4b246d3086d2df7b1) by aligatorkogut (https://sketchfab.com/aligatorkogut) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
