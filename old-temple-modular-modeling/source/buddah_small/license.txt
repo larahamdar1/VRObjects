@@ -1,0 +1,11 @@
+Model Information:
+* title:	Buddah Small
+* source:	https://sketchfab.com/3d-models/buddah-small-32b7e2bfdd57462595d0e70a8fb9b930
+* author:	thesmartphone991 (https://sketchfab.com/thesmartphone991)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Buddah Small" (https://sketchfab.com/3d-models/buddah-small-32b7e2bfdd57462595d0e70a8fb9b930) by thesmartphone991 (https://sketchfab.com/thesmartphone991) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
