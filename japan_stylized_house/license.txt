@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japan stylized house
+* source:	https://sketchfab.com/3d-models/japan-stylized-house-9e2c3a6dc2b741d6b4d18800b7caaf73
+* author:	Sobolev_Maxim (https://sketchfab.com/Sobolev_Maxim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japan stylized house" (https://sketchfab.com/3d-models/japan-stylized-house-9e2c3a6dc2b741d6b4d18800b7caaf73) by Sobolev_Maxim (https://sketchfab.com/Sobolev_Maxim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
